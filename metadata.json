@@ -1,0 +1,8 @@
+{
+  "name": "T2XT SERVER",
+  "description": "Web ve Android uyumlu, ücretsiz bulut tabanlı dosya depolama, klasör yönetimi ve anlık dosya paylaşım platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
